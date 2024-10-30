@@ -1,0 +1,7 @@
+<idea-plugin>
+    <id>com.example.CPlusPlusTemplatePlugin</id>
+    <name>C++ Template Plugin</name>
+    <description>Плагин для создания шаблонов классов и функций на C++</description>
+    <version>1.0</version>
+    <vendor>Valeria Kruglova</vendor>
+</idea-plugin>

@@ -1,0 +1,3 @@
+/Users/valeriakruglova/CLionProjects/plaginProject/cmake-build-debug/CMakeFiles/plaginProject.dir
+/Users/valeriakruglova/CLionProjects/plaginProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/valeriakruglova/CLionProjects/plaginProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
